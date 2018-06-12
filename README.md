@@ -1,3 +1,3 @@
 # Akademija test
 
-Ovo je testni projekat za git.
+Ovo je testni projekat za git. bla bla

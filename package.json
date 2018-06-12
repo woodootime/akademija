@@ -1,0 +1,21 @@
+{
+  "name": "personal-webpage",
+  "version": "1.0.0",
+  "description": "Prva NODE.JS + TS aplikacija",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./dist/lib/server.js -e js,hbs"
+  },
+  "author": "Zoran",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.11.1",
+    "@types/hbs": "^4.0.0",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.1.1",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "nodemon": "^1.17.5"
+  }
+}
